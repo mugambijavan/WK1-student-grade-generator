@@ -25,5 +25,4 @@ function calculateGrade(){
 	    else {
 		document.getElementById("result").innerHTML = `Invalid`
 	    }
-    
     }
